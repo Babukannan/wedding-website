@@ -336,15 +336,15 @@ section {
 
 
 frank {
-	color: #668cff;
+	color: #483D8B;
 }
 
 leslie {
-	color: #ff6666;
+	color: #CD5C5C;
 }
 
 both {
-	color: #003300;
+	color: black;
 }
 
 #people h5,
@@ -574,7 +574,6 @@ both {
 }
 
 .gallery li {
-	padding-bottom: 30px;
 }
 
 /* FOOTER
