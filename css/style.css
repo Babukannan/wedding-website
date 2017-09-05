@@ -245,13 +245,37 @@ section {
    background-image: url('../images/frankhead.jpg');
 }
 
-.groomsman {
+.groomsman1 {
  width: 230px;
  height:230px;
  display:block;
 	display: inline-block;
 	position: relative;
- background:transparent url('../images/frankhead.jpg') center top no-repeat;
+ background:transparent url('../images/john.jpg') center top no-repeat;
+}
+.groomsman2 {
+ width: 230px;
+ height:230px;
+ display:block;
+	display: inline-block;
+	position: relative;
+ background:transparent url('../images/andy.jpg') center top no-repeat;
+}
+.groomsman3 {
+ width: 230px;
+ height:230px;
+ display:block;
+	display: inline-block;
+	position: relative;
+ background:transparent url('../images/danny.jpg') center top no-repeat;
+}
+.groomsman4 {
+ width: 230px;
+ height:230px;
+ display:block;
+	display: inline-block;
+	position: relative;
+ background:transparent url('../images/tim.jpg') center top no-repeat;
 }
 
 .leslie {
@@ -267,15 +291,41 @@ section {
    background-image: url('../images/lesliehead.jpg');
 }
 
-.bridesmaid {
+.bridesmaid1 {
  width: 230px;
  height:230px;
  display:block;
 	display: inline-block;
 	position: relative;
- background:transparent url('../images/lesliehead.jpg') center top no-repeat;
+ background:transparent url('../images/nicole.jpg') center top no-repeat;
 }
 
+.bridesmaid2 {
+ width: 230px;
+ height:230px;
+ display:block;
+	display: inline-block;
+	position: relative;
+ background:transparent url('../images/hanna.jpg') center top no-repeat;
+}
+
+.bridesmaid3 {
+ width: 230px;
+ height:230px;
+ display:block;
+	display: inline-block;
+	position: relative;
+ background:transparent url('../images/christine.jpg') center top no-repeat;
+}
+
+.bridesmaid4 {
+ width: 230px;
+ height:230px;
+ display:block;
+	display: inline-block;
+	position: relative;
+ background:transparent url('../images/janice.jpg') center top no-repeat;
+}
 
 .hover-effect i {
 	left: 50%;
