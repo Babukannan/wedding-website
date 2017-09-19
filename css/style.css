@@ -327,6 +327,19 @@ section {
  background:transparent url('../images/janice.jpg') center top no-repeat;
 }
 
+/* styles for '...' */
+.block-with-text {
+	display: -webkit-box;
+	  -webkit-line-clamp: 3;
+	  -webkit-box-orient: vertical;
+	  overflow: hidden;
+	  text-overflow: ellipsis;
+}
+.block-with-text:hover {
+	display: block;
+   white-space:normal;
+   overflow:visible;
+}
 .hover-effect i {
 	left: 50%;
 	margin: -20px 0 0 -20px;
